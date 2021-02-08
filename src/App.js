@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <BrowserRouter>
+    <BrowserRouter basename="/gh-pages-routing">
       <header>
         <nav>
           <ul>
